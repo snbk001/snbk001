@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @snbk001
-- 👀 I’m interested in RTL/ASIC/FPGA/SOC Design
-- 🌱 I’m currently learning SystemVerilog for Design and Synthesis
-- 💞️ I’m looking to collaborate on ASIC/FPGA/SOC Design
+- 👋 Hi, I’m @snbk001 (Sudhee)
+- 👀 I’m interested in RTL/ASIC/FPGA/SOC Design.
+- 🌱 I’m currently learning SystemVerilog for Design and Synthesis.
+- 💞️ I’m looking to collaborate on ASIC/FPGA/SOC Design or anything related to digital design.
 - 📫 How to reach me at snbkademane01@gmail.com
 
 <!---
