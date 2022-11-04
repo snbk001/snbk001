@@ -10,16 +10,6 @@ Skills: Verilog / SystemVerilog / Makefile / C
 - 📫 How to reach me: snbkademane01@gmail.com 
 - 😄 Pronouns: He/Him 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snbk001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudhee-bhat/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snbk001)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snbk001)  
-
-
-
-
 <!---
 - 👋 Hi, I’m @snbk001 (Sudhee)
 - 👀 I’m interested in RTL/ASIC/FPGA/SOC Design.
