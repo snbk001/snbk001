@@ -5,7 +5,7 @@ Skills: Verilog / SystemVerilog / Makefile / C
 
 - 🔭 I’m currently working on SystemVerilog for Design and Synthesis. 
 - 🌱 I’m currently learning SystemVerilog for RTL 
-- 👯 I’m looking to collaborate on ASIC/FPGA/SOC Design or anything related to digital design. 
+- 👯 I’m looking to collaborate on ASIC/FPGA/SOC Design. 
 - 💬 Ask me about Verilog, SystemVerilog 
 - 📫 How to reach me: snbkademane01@gmail.com 
 - 😄 Pronouns: He/Him 
