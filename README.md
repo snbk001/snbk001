@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sudhee
-#### RTL Design enthusiastic learner
+#### RTL Design learner
 
 Skills: Verilog / SystemVerilog / Makefile / C
 
